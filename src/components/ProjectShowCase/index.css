@@ -1,0 +1,19 @@
+.appList {
+  width: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+.image {
+  height: 145px;
+  width: 100%;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.name {
+  font-family: 'Roboto';
+  padding: 10px;
+}
